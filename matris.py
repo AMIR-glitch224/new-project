@@ -80,6 +80,8 @@ while True:
 # در ادامه باید دترمینان ان را محاسبه کنیم
 def det2 (tn) :
     sumd = tn[0][0]*tn[1][1] - tn[1][0]*tn[0][1]
+    print(sumd)
+    #efwfnnf#
 
     
     
